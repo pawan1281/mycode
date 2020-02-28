@@ -1,0 +1,2 @@
+utility fuctions for version 2
+aws and azure GCP devops Linux
